@@ -14,7 +14,7 @@
 
 ## 📖 Description
 
-_Peersonal Portfolio Website_
+_Simple Movie App utilizing HTML, CSS, JavaScript and moviedb API._
 
 ---
 
